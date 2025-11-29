@@ -1,6 +1,6 @@
-# FacialRecognition
+# Proyecto_FacialRecognition_IA
 
-Reconocimiento de Emociones
+Proyecto de Reconocimiento de Emociones
 
 Este proyecto reconoce emociones usando la cámara de la computadora.
 Funciona en tres pasos que son la captura, entrenamiento y reconocimiento.
