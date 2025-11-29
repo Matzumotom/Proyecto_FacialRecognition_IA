@@ -12,7 +12,7 @@ Este paso toma fotos del rostro para crear la base de datos.
 Enciende la cámara.
 Detecta tu rostro con Haar Cascade.
 Recorta solo la cara.
-Guarda muchas imágenes dentro de una carpeta con el nombre de la emoción (Felicidad, Tristeza, Enojo, Sorpresa).
+Guarda 200 imágenes dentro de cada carpeta con el nombre de la emoción (Felicidad, Tristeza, Enojo, Sorpresa).
 
 2. Entrenamiento del modelo
 Esta parte enseña al programa a reconocer emociones usando las fotos guardadas.
